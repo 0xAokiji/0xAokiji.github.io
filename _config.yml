@@ -14,9 +14,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: OxAokiji # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 🎓 Computer & Control Engineer
+🛡️ Cybersecurity Enthusiast | Penetration Tester
+🌐 Web, Mobile & Network Security
+🔍 Focused on Offensive Security & Vulnerability Research # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
