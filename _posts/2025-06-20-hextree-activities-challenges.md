@@ -27,8 +27,8 @@ In each challenge, I’ll give
 
 ### In the next part, I’ll be showing the challenges related to **Activities.**
 
-![Custom Domain](/assets/img/2025-06-20-hextree-activities-challenges/image.png){high="900" : width="500"}
-_My Github Pages Custom Domain page_
+![Custom Domain](/assets/img/2025-06-20-hextree-activities-challenges/image.png){heigh="900" : width="500"}
+_My Appliction_
 ---
 
 ## Challenge 1: Basic_Exported
@@ -64,7 +64,10 @@ intent.setComponent(componentName);
 startActivity(intent);
 ```
 
-![image.png](attachment:99185127-5771-4ff9-9b30-55c4add1911b:image.png)
+<img src="/assets/img/2025-06-20-hextree-activities-challenges/Pasted image.png" alt="Custom Domain" style="width: 900px; height: 100px;" />
+
+**Flag = HXT{basic-exported-activity-1bh7sd}**
+
 
 ## Using ADB (recommended for quick testing):
 
