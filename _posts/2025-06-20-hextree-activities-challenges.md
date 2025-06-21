@@ -27,9 +27,8 @@ In each challenge, I’ll give
 
 ### In the next part, I’ll be showing the challenges related to **Activities.**
 
-![Custom Domain](/assets/img/2025-06-20-hextree-activities-challenges/image.png){heigh="900" : width="500"}
+<img src="/assets/img/2025-06-20-hextree-activities-challenges/image.png" alt="Custom Domain" style="width: 400px; height: 700px;" />
 _My Appliction_
----
 
 ## Challenge 1: Basic_Exported
 
