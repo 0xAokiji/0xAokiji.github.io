@@ -148,3 +148,5 @@ startActivity(intent);
 ```bash
 adb shell am start -n io.hextree.attacksurface/.activities.Flag2Activity -a io.hextree.action.GIVE_FLAG
 ```
+<img src="/assets/img/2025-06-20-hextree-activities-challenges/flag2.png" alt="Custom Domain" width="400" height="600" />
+<p align="center"><em>Screenshot From Challenge 2</em></p>
