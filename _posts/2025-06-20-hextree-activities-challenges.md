@@ -118,8 +118,8 @@ public class Flag2Activity extends AppCompactActivity {
 
 
 - At `onCreate()`, we need to trigger the `success` function.
-- we have a condition: this condition is if action equals null or doesn’t equal this action `“**io.hextree.action.GIVE_FLAG"`** the application will return
-- To trigger this function, we need to the action equal `“**io.hextree.action.GIVE_FLAG"**`
+- we have a condition: this condition is if action equals null or doesn’t equal this action `“io.hextree.action.GIVE_FLAG"` the application will return
+- To trigger this function, we need to the action equal `“io.hextree.action.GIVE_FLAG"`
 
 <h3 style="color: #40E0D0; font-weight: bold; font-size: 22px;">Solution</h3>
 
@@ -140,7 +140,7 @@ startActivity(intent);
 
 
 - Here I use explicit intent to launch the Flag2Activity activity.
-- Make the action is `“**io.hextree.action.GIVE_FLAG"`** by this line **`intent.setAction("io.hextree.action.GIVE_FLAG");`**
+- Make the action is `“io.hextree.action.GIVE_FLAG"` by this line `intent.setAction("io.hextree.action.GIVE_FLAG");`
 - Finally launch this activity
 
 <h4 style="color: #FF8C00; font-weight: bold; font-size: 18px;">Using ADB (recommended for quick testing):</h4>
